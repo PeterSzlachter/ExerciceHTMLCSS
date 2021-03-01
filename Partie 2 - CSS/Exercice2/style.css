@@ -1,0 +1,81 @@
+#box
+{
+  height: 416px;
+  width: 1324px;
+  border: 2px solid black;
+  position: relative;
+}
+.element:nth-child(1)
+{   
+    height: 10%;
+    width: 90%;
+    background-color:mediumseagreen;
+}
+.element:nth-child(2)
+{   
+    float:right;
+    height: 10%;
+    width: 10%;
+    background-color:royalblue;
+    position: absolute;
+    top:0%;
+    left:90%
+}
+.element:nth-child(3)
+{
+    height: 40%;
+    width: 28%;
+    background-color:red;
+}
+.element:nth-child(4)
+{   
+    height: 20%;
+    width: 36%;
+    background-color:darkorange;
+    position: absolute;
+    top:10%;
+    left:28%
+}
+.element:nth-child(5)
+{
+    height: 20%;
+    width: 36%;
+    background-color: gray;
+    position: absolute;
+    top:10%;
+    left:64%
+}
+.element:nth-child(6)
+{   
+    height: 20%;
+    width: 25%;
+    background-color: orange;
+    position: absolute;
+    top:30%;
+    right:47%;
+}
+.element:nth-child(7)
+{
+    height: 20%;
+    width: 24%;
+    background-color:teal;
+    position: absolute;
+    top:30%;
+    right:24%
+}
+.element:nth-child(8)
+{
+    height: 20%;
+    width: 24%;
+    background-color:orangered;
+    position: absolute;
+    top:30%;
+    right:0%
+}
+.element:nth-child(9)
+{   
+    background-color:darkslateblue;
+    align-self: flex-end;
+    height: 50%; /* longueur de 300px */ 
+    width: 100%; /* largueur de 600px */
+}

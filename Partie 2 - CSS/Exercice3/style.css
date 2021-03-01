@@ -1,0 +1,44 @@
+.identité
+{
+    background-color: rgb(37,116,169);
+
+}
+.adresse
+{
+    background-color: rgb(154,18,179);
+}
+.informations
+{
+    background-color: rgb(219,10,91);
+}
+.title
+{
+    background-color: rgb(37,116,169);
+    width: fit-content;
+}
+.title2
+{
+    background-color: rgb(154,18,179);
+    position: relative;
+    width: fit-content;
+}
+.title3
+{
+    background-color: rgb(219,10,91);
+    position: relative;
+    width: fit-content;
+}
+h1
+{
+    margin-left: 10px;    
+    font-size: 1em;
+    font-weight:550;
+}
+textarea
+{
+    height: 60px;
+}
+ul
+{
+    list-style-type:disc;
+}

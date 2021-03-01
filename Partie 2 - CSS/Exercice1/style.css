@@ -1,0 +1,21 @@
+body 
+{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}
+
+.cabiaï
+{
+    font-weight:bold;
+    color:red;
+}
+
+.rongeur
+{
+    font-style:italic;
+}
+
+h1
+{
+    font-variant-caps: small-caps;
+}
